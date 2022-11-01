@@ -38,3 +38,19 @@ $sudo micro /srv/salt/testi/init.sls
 Got a confirmation that the content of the file 'testi was changed as instructed.
 Went to see that the change had actually happened. It had.
 
+## C
+
+```
+$sudo salt-call --local grains.items
+```
+Got the whole list of information with the above command. Wanted to test out how be more precise and with the following got only the info i wanted.
+```
+$sudo salt-call --local grains.item cpu_model kernelversion
+```
+Want to point out that took a while to realize the needed difference between grains.items <-> grains.item
+
+
+
+### Sources
+Tero Karivnen - https://terokarvinen.com/2018/salt-states-i-want-my-computers-like-this/
+eshelman - https://gist.github.com/eshelman/8263175
