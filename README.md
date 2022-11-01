@@ -34,11 +34,11 @@ Git a confirmation message that the file has been created. Went to confirm. It h
 
 **Down from here was added afterwards**
 
-Realised that single.state actually meant after seeing other solutions:
+Realised what single.state actually meant after seeing other solutions:
 ´´´
 $sudo salt-call --local state.single file.managed /home/tuomor/nojustjoo contents="justjoo"
 ´´´
-source:https://github.com/JRissanen/JuliusSpace/blob/main/h1_hello_salt_JuliusRissanen -- Thanks, just didmt realize the assignment
+source:https://github.com/JRissanen/JuliusSpace/blob/main/h1_hello_salt_JuliusRissanen -- Thanks, just didn´t realize the assignment.
 
 **Up from here was added afterwards**
 
