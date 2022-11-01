@@ -1,10 +1,10 @@
 # Configuration-Management-Systems
 ict4tn022-3018 - Autumn 2022
 
-## Testing
+## B
 
-`is this a block of code?`
-  yes it is
-  or ist
-  is it
+Went to create some random content to /home/tuomor/testi file
+'$ sudo micro /home/tuomor/testi'
+  this is a random sentence.'
+
   
