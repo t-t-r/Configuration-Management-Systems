@@ -1,6 +1,16 @@
 # Configuration-Management-Systems
 ict4tn022-3018 - Autumn 2022
 
+## X
+
+-Karvinen 2020: Command Line Basics Revisited
+  *All too familiar commands - yet sometimes so hard to remember
+-Karvinen 2018: Salt States – I Want My Computers Like This
+  *This is the good stuff, that's what we are learning here.
+-Karvinen 2006: Raportin kirjoittaminen
+  *Show the starting state, tell what you did, so the end state. Small pieces, easier to understand and resolve when something 
+   is not happening how you imagined. And do remember the sources.
+
 ## A
 
 Created directory 'testi' with a file init.sls. In init.sls instructions to create a file 'hellohello.txt' to my home directory
