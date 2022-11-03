@@ -13,7 +13,7 @@ ict4tn022-3018 - Autumn 2022
 
 -Karvinen 2006: Raportin kirjoittaminen
 
-*Show the starting state, tell what you did, so the end state. Small pieces, easier to understand and resolve when something 
+*Show the starting state, tell what you did, show the end state. Small pieces, easier to understand and resolve when something 
 is not happening how you imagined. And do remember the sources.
 
 ## A
